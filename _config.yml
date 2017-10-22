@@ -1,0 +1,8 @@
+# Integrate the following settings into the including _config.yml
+# Replace `gh-pages-theme` with the submodule/folder name
+sass:
+    sass_dir: ./gh-pages-theme/_includes/_sass
+    style: compressed
+layouts_dir: ./gh-pages-theme/_layouts
+includes_dir: ./gh-pages-theme/_includes
+
